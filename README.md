@@ -26,7 +26,6 @@
 
 #### Other Expertise
 
-<p>
 <img alt="MVC" src="https://img.shields.io/badge/-MVC-4e7f84?style=flat-square" style="display: inline; width: 50px; padding-left: 7px;" /> 
 <img alt="SOLID" src="https://img.shields.io/badge/-SOLID-003f2a?style=flat-square" style="display: inline; width: 80px; padding-top: 9px;" /> 
 <img alt="Clean" src="https://img.shields.io/badge/-Clean-2d3e50?style=flat-square" style="display: inline; width: 70px; padding-right: 5px; padding-bottom: 7px;" /> 
@@ -35,7 +34,6 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" style="display: inline; width: 125px; padding-left: 6px;" /> 
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black" style="display: inline; width: 110px; padding-right: 6px;" /> 
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" style="display: inline; width: 120px; padding-left: 6px;" />
-</p>
 
 <br>
 
