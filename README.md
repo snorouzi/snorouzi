@@ -6,9 +6,9 @@
 
 #### Programming Languages / Runtime
 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" style="width: 115px; padding-right: 8px;" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" style="width: 110px; padding-top: 5px;" />
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-4e8d7e?style=flat-square&logo=gnu-bash&logoColor=white" style="width: 105px; padding-bottom: 3px;" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" style="width: 115px; padding-right: 8px; display: inline-block;" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" style="width: 110px; padding-top: 5px; display: inline-block;" />
+<img alt="Bash" src="https://img.shields.io/badge/-Bash-4e8d7e?style=flat-square&logo=gnu-bash&logoColor=white" style="width: 105px; padding-bottom: 3px; display: inline-block;" />
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8cc84b?style=flat-square&logo=node.js&logoColor=white" style="width: 120px; padding-left: 5px;" />
 
 #### Frameworks
@@ -49,7 +49,6 @@
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black" style="width: 110px; padding-right: 6px;" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" style="width: 120px; padding-left: 6px;" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" style="width: 130px; padding-top: 6px;" />
-
 
 ---
 
