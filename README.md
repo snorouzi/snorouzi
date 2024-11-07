@@ -6,8 +6,7 @@
 
 #### Programming Languages / Runtime
 
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" style="width: 115px; padding-right: 8px;;" />
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" style="width: 110px; padding-top: 5px;" /> <img alt="Bash" src="https://img.shields.io/badge/-Bash-4e8d7e?style=flat-square&logo=gnu-bash&logoColor=white" style="width: 105px; padding-bottom: 3px;" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8cc84b?style=flat-square&logo=node.js&logoColor=white" style="width: 120px; padding-left: 5px;" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white" style="width: 115px; padding-right: 8px;;" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" style="width: 110px; padding-top: 5px;" /> <img alt="Bash" src="https://img.shields.io/badge/-Bash-4e8d7e?style=flat-square&logo=gnu-bash&logoColor=white" style="width: 105px; padding-bottom: 3px;" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8cc84b?style=flat-square&logo=node.js&logoColor=white" style="width: 120px; padding-left: 5px;" />
 
 #### Frameworks
 
