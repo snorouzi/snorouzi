@@ -26,22 +26,14 @@
 
 #### Other Tools
 
-<img alt="MVC" src="https://img.shields.io/badge/-MVC-4e7f84?style=flat-square" style="width: 50px; padding-left: 7px;" /> <img alt="SOLID" src="https://img.shields.io/badge/-SOLID_Principles-003f2a?style=flat-square" style="width: 140px; padding-top: 6px;" /> <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean_Architecture-2d3e50?style=flat-square" style="width: 125px; padding-right: 5px; padding-bottom: 15px;" /> <img alt="Git" src="https://img.shields.io/badge/-Git-f1502f?style=flat-square&logo=git&logoColor=white" style="width: 90px; padding-left: 5px;" /> <img alt="GitFlow" src="https://img.shields.io/badge/-GitFlow-3eaf3e?style=flat-square&logo=git&logoColor=white" style="width: 115px; padding-top: 7px;" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" style="width: 125px; padding-left: 6px;" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black" style="width: 110px; padding-right: 6px;" /> <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" style="width: 120px; padding-left: 6px;" /> <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white" style="width: 130px; padding-top: 6px;" />
+<img alt="MVC" src="https://img.shields.io/badge/-MVC-4e7f84?style=flat-square" style="width: 50px; padding-left: 7px;" /> <img alt="SOLID" src="https://img.shields.io/badge/-SOLID_Principles-003f2a?style=flat-square" style="width: 140px; padding-top: 6px;" /> <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean_Architecture-2d3e50?style=flat-square" style="width: 125px; padding-right: 5px; padding-bottom: 15px;" /> <img alt="Git" src="https://img.shields.io/badge/-Git-f1502f?style=flat-square&logo=git&logoColor=white" style="width: 90px; padding-left: 5px;" /> <img alt="GitFlow" src="https://img.shields.io/badge/-GitFlow-3eaf3e?style=flat-square&logo=git&logoColor=white" style="width: 115px; padding-top: 7px;" /> <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" style="width: 125px; padding-left: 6px;" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black" style="width: 110px; padding-right: 6px;" /> <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" style="width: 120px; padding-left: 6px;" />
 
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
+<br>
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourusername)
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
 
----
+[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/your-username)
 
-Thanks for visiting my profile! 😊
+[<img align="left" alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />](https://discord.com/users/your-discord-id)
