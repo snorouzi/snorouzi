@@ -1,60 +1,64 @@
-<h1 align="center">Here to build, break, and learn. | Hi, I'm Saeed! ⚙️</h1>
+# Hi, I'm Saeed Norouzi 👋
 
-<h3 align="center">A software developer driven by curiosity and code.</h3>
+**Senior Backend Developer · NestJS**
 
-### 🛠️ Languages and Tools
+I design and build **scalable, reliable backend systems** with a focus on clean architecture, data-intensive applications, and high-concurrency workloads.
 
-#### Languages / Runtime
+With 6+ years of experience, I’ve worked on financial platforms, reservation engines, microservices, and distributed systems — from database design and backend architecture to production reliability and team collaboration.
 
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=7f7f7f" style="width: 115px; padding-right: 8px;" title=""/>](https://www.javascript.com/)
-[<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" style="width: 110px; padding-top: 5px;" title=""/>](https://www.typescriptlang.org/)
-[<img alt="Bash" src="https://img.shields.io/badge/-Bash-4e8d7e?style=flat-square&logo=gnu-bash&logoColor=white" style="width: 105px; padding-bottom: 3px;" title=""/>](https://www.gnu.org/software/bash/)
-[<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8cc84b?style=flat-square&logo=node.js&logoColor=white" style="width: 120px; padding-left: 5px;" title=""/>](https://nodejs.org/)
+- 🔭 **Current focus:** Backend engineering with NestJS and TypeScript
+- 🏗️ **Interests:** Distributed systems, system design, and fault tolerance
+- 🗄️ **Data & messaging:** PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ
+- 🤝 **Beyond code:** Technical problem-solving, mentoring, and backend architecture
+- 📫 **Contact:** [Email](mailto:saeednorouzi98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/saeednorouzi)
 
-#### Frameworks
+---
 
-[<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="width: 115px; padding-top: 4px;" title=""/>](https://expressjs.com/)
-[<img alt="NestJS" src="https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white" style="width: 110px; padding-right: 5px;" title=""/>](https://nestjs.com/)
-[<img alt="Fastify" src="https://img.shields.io/badge/-Fastify-00c36e?style=flat-square&logo=fastify&logoColor=white" style="width: 120px" title=""/>](https://www.fastify.io/)
+## Tech Stack
 
-#### Databases
+**Backend & Languages**
 
-[<img alt="Postgres" src="https://img.shields.io/badge/-Postgres-336791?style=flat-square&logo=postgresql&logoColor=white" style="width: 110px; padding-left: 6px;" title=""/>](https://www.postgresql.org/)
-[<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" style="width: 115px; padding-right: 6px;" title=""/>](https://www.mysql.com/)
-[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" style="width: 120px; padding-top: 4px;" title=""/>](https://www.mongodb.com/)
-[<img alt="Redis" src="https://img.shields.io/badge/-Redis-dd0031?style=flat-square&logo=redis&logoColor=white" style="width: 110px; padding-bottom: 5px;" title=""/>](https://redis.io/)
-[<img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" style="width: 130px; padding-left: 8px;" title=""/>](https://www.elastic.co/elasticsearch)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-#### Micro Service Tools
+**Databases & Search**
 
-[<img alt="gRPC" src="https://img.shields.io/badge/-gRPC-4e9b37?style=flat-square&logo=grpc&logoColor=white" style="width: 65px; padding-top: 5px;" title=""/>](https://grpc.io/)
-[<img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-f7b731?style=flat-square&logo=rabbitmq&logoColor=white" style="width: 120px; padding-left: 6px;" title=""/>](https://www.rabbitmq.com/)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### API / Real Time Services
+**Infrastructure & Messaging**
 
-[<img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" style="width: 125px; padding-right: 8px;" title=""/>](https://socket.io/)
-[<img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-3b8bfc?style=flat-square&logo=websocket&logoColor=white" style="width: 120px; padding-top: 5px;" title=""/>](https://www.websocket.org/)
-[<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85ea2d?style=flat-square&logo=swagger&logoColor=black" style="width: 110px; padding-bottom: 5px;" title=""/>](https://swagger.io/)
-[<img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-8cc2e1?style=flat-square&logo=openapi-initiative&logoColor=white" style="width: 120px; padding-left: 6px;" title=""/>](https://www.openapis.org/)
-[<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-e10098?style=flat-square&logo=graphql&logoColor=white" style="width: 130px; padding-right: 7px;" title=""/>](https://graphql.org/)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-#### Other Expertise
+**Engineering Practices**
 
-[<img alt="MVC" src="https://img.shields.io/badge/-MVC-4e7f84?style=flat-square" style="display: inline-block; width: 50px; padding-left: 7px;" title=""/>](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-[<img alt="SOLID" src="https://img.shields.io/badge/-SOLID-003f2a?style=flat-square" style="display: inline-block; width: 80px; padding-top: 9px;" title=""/>](https://en.wikipedia.org/wiki/SOLID)
-[<img alt="Clean" src="https://img.shields.io/badge/-Clean-2d3e50?style=flat-square" style="display: inline; width: 70px; padding-right: 5px; padding-bottom: 7px;" title=""/>](https://en.wikipedia.org/wiki/Clean_architecture)
-[<img alt="Git" src="https://img.shields.io/badge/-Git-f1502f?style=flat-square&logo=git&logoColor=white" style="display: inline; width: 90px; padding-left: 5px;" title=""/>](https://git-scm.com/)
-[<img alt="GitFlow" src="https://img.shields.io/badge/-GitFlow-3eaf3e?style=flat-square&logo=git&logoColor=white" style="display: inline; width: 115px; padding-top: 7px;" title=""/>](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-[<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white" style="display: inline; width: 125px; padding-left: 6px;" title=""/>](https://www.docker.com/)
-[<img alt="Linux" src="https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black" style="display: inline; width: 110px; padding-right: 6px;" title=""/>](https://www.kernel.org/)
-[<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" style="display: inline; width: 120px; padding-left: 6px;" title=""/>](https://www.nginx.com/)
+System Design · Microservices · REST APIs · Event-Driven Architecture · Database Design · API Testing · Code Review · Clean Code
 
-<br>
+---
 
-### Connect with Me
+## What I Enjoy Building
 
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:saeednorouzi98@gmail.com)
+- ⚙️ Scalable backend services and high-concurrency workflows
+- 🔄 Event-driven systems and asynchronous processing
+- 🧩 Reliable microservices and fault-tolerant architectures
+- 🗃️ Efficient data models, caching strategies, and search systems
+- 🛠️ Developer tools and automation that improve engineering workflows
 
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/SNW13)
+---
 
-[<img align="left" alt="Discord" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />](https://discord.com/users/476787592176730122)
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeednorouzi)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saeednorouzi98@gmail.com)
+
+<sub>Building things, solving problems, and learning along the way.</sub>
